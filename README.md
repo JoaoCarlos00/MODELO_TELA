@@ -1,18 +1,16 @@
-# Título do projeto
+# Modelo de Tela
 
-Um parágrafo da descrição do projeto vai aqui
+Exercício sobre Modelo de Tela
 
 ## 🚀 Começando
 
-Pode colocar o enunciado para o desenvolvimento do projeto
+CRIE UM PROJETO EM JAVA E REPRODUZA O EXEMPLO DO SLIDE ANTERIOR;
+
+CONFIRA SE O MESMO ESTÁ FUNCIONANDO;
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
+<img width="926" alt="Exercício" src="https://github.com/user-attachments/assets/a1c18c1e-a735-49d7-b0b8-9abdb64a5f1b">
 
 ### 🔧 Instalação
 
@@ -31,5 +29,5 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Nome do desenvolvedor** - *Trabalho Inicial* - Nome da atividade
+* João Carlos Ferreira de Araujo RA 248152 -- AC2 Programação Orientada à Objetos
 
